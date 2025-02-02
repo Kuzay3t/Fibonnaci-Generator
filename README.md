@@ -1,13 +1,27 @@
-# Fibonnaci-Generator
+# Fibonacci-Generator
 
-A simple Python program to generate numbers in the Fibonacci sequence. This project is designed to showcase how the Fibonacci sequence works and provides a reusable module for generating Fibonacci numbers.
+## 🔢 A Simple Fibonacci Sequence Generator  
+
+This Python-based tool generates the Fibonacci sequence using various methods, including recursion, iteration, and memoization. You can specify the number of terms or a maximum value for the sequence.
 
 ---
 
-## Features
+## 🚀 Features  
 
-- Generates Fibonacci numbers up to a specific limit or count.
-- Efficient implementation using iteration or recursion.
-- Suitable for beginners looking to understand the Fibonacci sequence and Python programming.
+- Generate Fibonacci sequences up to **N terms** or a **maximum value**  
+- Supports multiple approaches:
+  - ✅ Recursion  
+  - ✅ Iteration (Loop-based)  
+  - ✅ Memoization (Optimized for performance)  
+- Simple and easy-to-use CLI  
 
---
+---
+
+## 📌 Getting Started  
+
+Follow these instructions to set up and run the Fibonacci generator on your local machine.
+
+### 🔹 Prerequisites  
+
+- Python 3.6 or higher installed  
+
