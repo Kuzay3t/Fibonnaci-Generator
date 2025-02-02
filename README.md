@@ -15,13 +15,3 @@ This Python-based tool generates the Fibonacci sequence using various methods, i
   - ✅ Memoization (Optimized for performance)  
 - Simple and easy-to-use CLI  
 
----
-
-## 📌 Getting Started  
-
-Follow these instructions to set up and run the Fibonacci generator on your local machine.
-
-### 🔹 Prerequisites  
-
-- Python 3.6 or higher installed  
-
