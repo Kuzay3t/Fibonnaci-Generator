@@ -15,3 +15,7 @@ This Python-based tool generates the Fibonacci sequence using various methods, i
   - ✅ Memoization (Optimized for performance)  
 - Simple and easy-to-use CLI  
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/master
