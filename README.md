@@ -13,6 +13,5 @@ This Python-based tool generates the Fibonacci sequence using various methods, i
   - ✅ Recursion  
   - ✅ Iteration (Loop-based)  
   - ✅ Memoization (Optimized for performance)  
-- Simple and easy-to-use CLI  
+  - Simple and easy-to-use CLI  
 
----
